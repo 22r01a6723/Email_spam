@@ -3,6 +3,7 @@ About the Project:
 This project focuses on Email Spam Classification using Machine Learning and a user-friendly Streamlit interface. The application classifies emails as either Spam or Ham (Not Spam) by leveraging a Multinomial Naive Bayes model trained on a dataset of email messages. The entire workflow, from data preprocessing to model deployment, is structured for simplicity and functionality.
 
 Execution Steps:
+
 1).Install Anaconda Software:
 Anaconda was installed to manage the Python environment and dependencies. The base directory was used for project execution.
 
