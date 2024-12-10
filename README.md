@@ -33,17 +33,22 @@ Steps in the Notebook:
   Features in Streamlit App:
 
   1.Users can input email text directly in a text area.
+  
   2.A Classify Email button triggers the classification process.
+  
   3.Displays results with intuitive messages:
    i).Not A Spam Email (Ham) in green.
    ii). Spam Email in red.
+   
    4.Styled using Streamlit's markdown for a clean, user-friendly interface.
  
 5).Run the Application:
 
   1.The integrated terminal was opened in the base Conda directory.
+  
   2.The following command was executed to start the Streamlit app:
       "streamlit run spamDetector.py"
+      
   3.The app runs locally in the browser, where users can input email text to classify.
 
 Outcome:
